@@ -2,7 +2,7 @@ name: GitHub Snake Game
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" # daily at midnight UTC
   workflow_dispatch:
   push:
     branches:
@@ -30,6 +30,6 @@ jobs:
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }} # use your PAT here
           publish_dir: ./dist
           publish_branch: output
