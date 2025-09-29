@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-python
+'''python
 class DhinakaranMS:
     def __init__(self):
         self.name = "Dhinakaran M S"
