@@ -270,6 +270,7 @@ dk.say_hi()
 <details>
 <summary><b>🔍 View More Projects</b></summary>
 <br/>
+<details>
 
 <table>
 <tr>
