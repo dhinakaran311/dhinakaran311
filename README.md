@@ -18,18 +18,18 @@
 
 ## 👨‍💻 About Me
 
-'''python
+```python
 class DhinakaranMS:
     def __init__(self):
         self.name = "Dhinakaran M S"
         self.role = "AI/ML Engineer & Full-Stack Developer"
         self.location = "India 🇮🇳"
-        self.education = "B.E CSE in AI & ML"
+        self.education = "B.Tech in AI & ML"
         self.passion = ["Problem Solving", "Building AI Solutions", "Web Development"]
         
     def current_focus(self):
         return [
-            "🔬 Agentic AI & ML",
+            "🔬 Deep Learning & Neural Networks",
             "🌐 Building scalable web applications",
             "💪 Mastering competitive programming",
             "🚀 Contributing to open source"
@@ -37,11 +37,11 @@ class DhinakaranMS:
     
     def get_daily_routine(self):
         return "Code 💻 → Solve Problems 🧩 → Learn 📚 → Repeat 🔄"
-
+```
 
 ---
 
-## 🛠 Tech Arsenal
+## 🛠️ Tech Arsenal
 
 <details open>
 <summary><b>💻 Languages</b></summary>
@@ -67,7 +67,7 @@ class DhinakaranMS:
 </details>
 
 <details open>
-<summary><b>⚙ Backend & Database</b></summary>
+<summary><b>⚙️ Backend & Database</b></summary>
 <br/>
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -234,8 +234,8 @@ class DhinakaranMS:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" />
 
-*⭐ If you find my work interesting, feel free to star my repositories!*
+**⭐ If you find my work interesting, feel free to star my repositories!**
 
-Made with ❤ by [Dhinakaran M S](https://github.com/Dhinakaran311)
+*Made with ❤️ by [Dhinakaran M S](https://github.com/Dhinakaran311)*
 
 </div>
