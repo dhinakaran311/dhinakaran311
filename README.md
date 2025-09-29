@@ -288,17 +288,19 @@ dk.say_hi()
 <a href="https://github.com/Dhinakaran311/Age-Calculator">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhinakaran311&repo=Age-Calculator&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=F59E0B&text_color=E5E7EB" />
 </a>
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhinakaran311/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhinakaran311/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Dhinakaran311/output/github-snake.svg" />
+</picture>
 </div>
-</td>
-</tr>
-</table>
 
-</details>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider">
-
-</div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" /> GitHub Analytics Dashboard
 
