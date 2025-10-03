@@ -229,6 +229,7 @@ class DhinakaranMS:
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
 
 <br/><br/>
+<hr>
 
 ### ✨ "Code is poetry written in logic"
 
