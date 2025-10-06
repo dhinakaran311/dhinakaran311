@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,15,20,24&height=200&section=header&text=Dhinakaran%20M%20S&fontSize=64&fontAlignY=50&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Competitive%20Programmer&descAlignY=72&fontColor=fff&animation=blinking&stroke=4F46E5&strokeWidth=3" alt="Header Banner" />
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,3,8,14,22,28&height=230&section=header&text=Dhinakaran%20M%20S&fontSize=68&fontAlignY=40&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Competitive%20Programmer&descAlignY=58&fontColor=fff&animation=scaleIn&stroke=00d4ff&strokeWidth=3&reversal=true" alt="Header Banner" />
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&random=false&width=800&lines=💡+AI+%26+Machine+Learning+Explorer;🚀+Full-Stack+Web+Developer;⚡+Div+3+Competitive+Programmer;🎯+627%2B+Problems+Solved;🌟+Always+Learning+%26+Building)](https://git.io/typing-svg)
