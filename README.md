@@ -24,7 +24,7 @@ class DhinakaranMS:
         self.name = "Dhinakaran M S"
         self.role = "AI/ML Engineer & Full-Stack Developer"
         self.location = "India 🇮🇳"
-        self.education = "B.Tech in AI & ML"
+        self.education = "B.E. CSE (Specialization in AI & ML)"
         self.passion = ["Problem Solving", "Building AI Solutions", "Web Development"]
         
     def current_focus(self):
