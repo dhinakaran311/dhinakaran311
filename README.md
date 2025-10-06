@@ -11,15 +11,25 @@
 <br/>
 
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Dhinakaran311&label=Profile%20Views&color=4F46E5&style=for-the-badge)](https://github.com/Dhinakaran311)
-[![GitHub followers](https://img.shields.io/github/followers/Dhinakaran311?label=Followers&style=for-the-badge&color=4F46E5)](https://github.com/Dhinakaran311?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/Dhinakaran311?label=Total%20Stars&style=for-the-badge&color=4F46E5)](https://github.com/Dhinakaran311)
+<p align="center">
+  <a href="https://github.com/Dhinakaran311">
+    <img src="https://komarev.com/ghpvc/?username=Dhinakaran311&label=Profile+Views&color=8B5CF6&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/Dhinakaran311?tab=followers">
+    <img src="https://img.shields.io/github/followers/Dhinakaran311?label=Followers&style=for-the-badge&color=7C3AED&logo=github&logoColor=white" alt="Followers"/>
+  </a>
+  <a href="https://github.com/Dhinakaran311?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Dhinakaran311?label=Total+Stars&style=for-the-badge&color=6D28D9&logo=starship&logoColor=white" alt="Stars"/>
+  </a>
+</p>
+
+
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## ⚙️ Developer Profile Overview
 
 ```python
 class DhinakaranMS:
