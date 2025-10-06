@@ -103,83 +103,159 @@ class DhinakaranMS:
 
 ---
 
-##  Competitive Programming Journey
-
 <div align="center">
 
-### 📊 LeetCode Stats
-<a href="https://leetcode.com/u/Dhinakaran311/">
-  <img src="https://leetcard.jacoblin.cool/Dhinakaran311?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats" />
-</a>
+# Competitive Programming Stats
 
-<br/><br/>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 LeetCode Profile
+
+<a href="https://leetcode.com/u/Dhinakaran311/">
+  <img src="https://leetcard.jacoblin.cool/Dhinakaran311?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats" width="100%" />
+</a>
+<a href="https://leetcode.com/u/Dhinakaran311/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+</td>
+
+<td width="50%" valign="top">
 
 ###  CodeChef Profile
 
-<table>
+<table align="center">
   <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Problems_Solved-627-4F46E5?style=for-the-badge&logo=codechef" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Contests-80-FF6B6B?style=for-the-badge&logo=codechef" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Active_Days-200-51CF66?style=for-the-badge&logo=codechef" />
+    <td align="center" colspan="2">
+      <img src="https://img.shields.io/badge/Problems_Solved-627-4F46E5?style=for-the-badge&logo=codechef&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Max_Rating-1513-FFD93D?style=for-the-badge&logo=codechef" />
+      <img src="https://img.shields.io/badge/Max_Rating-1513-FFD93D?style=for-the-badge&logo=codechef&logoColor=white" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Current_Rating-1478-FFA94D?style=for-the-badge&logo=codechef" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Division-Div_3-A29BFE?style=for-the-badge&logo=codechef" />
+      <img src="https://img.shields.io/badge/Current_Rating-1478-FFA94D?style=for-the-badge&logo=codechef&logoColor=white" />
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Contests-80-FF6B6B?style=for-the-badge&logo=codechef&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Active_Days-200-51CF66?style=for-the-badge&logo=codechef&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://img.shields.io/badge/Division-Div_3-A29BFE?style=for-the-badge&logo=codechef&logoColor=white" />
+    </td>
+  </tr>
+  
 </table>
+<a href="https://www.codechef.com/users/dhinakaran311" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
 
 
+<br/>
 
+**Achievements**
+-  627 Problems Solved
+-  Peak Rating: 1513
+-  80 Contests Participated
+-  200+ Active Days
 
-
-[![CodeChef Profile](https://img.shields.io/badge/View_Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/kit23bam016)
-[![Codolio Portfolio](https://img.shields.io/badge/Codolio_Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codolio.com/profile/Dhinakaran311)
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-##  Featured Projects
+<span style="font-size:16px;">Keep coding, keep growing! 💻</span>
+
+
+</div>
+
+
+## Showcasing My Best Work
+
+<table>
+<tr>
+<td width="50%">
+
+### 💰 Expense Tracker
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Dhinakaran311&repo=Expense_tracker&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/Dhinakaran311/Expense_tracker)
+
+**🔹 Track your expenses effortlessly**  
+A comprehensive expense tracking application with intuitive UI and powerful analytics.
+
+</td>
+<td width="50%">
+
+### 🍕 Food Delivery Time Prediction
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Dhinakaran311&repo=FOOD_DELIVERY_TIME_PREDICTION&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/Dhinakaran311/FOOD_DELIVERY_TIME_PREDICTION)
+
+**🔹 ML-powered delivery estimation**  
+Predict food delivery times using machine learning algorithms.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ✅ Todo Application
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Dhinakaran311&repo=TodoApp&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/Dhinakaran311/TodoApp)
+
+**🔹 Stay organized and productive**  
+Modern todo app with a clean interface and essential features.
+
+</td>
+<td width="50%">
+
+### 💼 Job Search Platform
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Dhinakaran311&repo=Job_Search&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/Dhinakaran311/Job_Search)
+
+**🔹 Find your dream job**  
+Comprehensive job search application with advanced filtering.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌐 Personal Portfolio
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Dhinakaran311&repo=Portfolio_DK&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/Dhinakaran311/Portfolio_DK)
+
+**🔹 Showcasing my journey**  
+Professional portfolio website highlighting my skills and projects.
+
+</td>
+<td width="50%">
+
+### 🎂 Age Calculator
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Dhinakaran311&repo=Age-Calculator&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/Dhinakaran311/Age-Calculator)
+
+**🔹 Calculate age precisely**  
+Simple yet elegant age calculator with detailed breakdowns.
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<a href="https://github.com/Dhinakaran311/Expense_tracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhinakaran311&repo=Expense_tracker&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF&icon_color=4F46E5" />
-</a>
-<a href="https://github.com/Dhinakaran311/FOOD_DELIVERY_TIME_PREDICTION">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhinakaran311&repo=FOOD_DELIVERY_TIME_PREDICTION&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF&icon_color=4F46E5" />
-</a>
+### 🌟 More Projects Coming Soon!
 
-<a href="https://github.com/Dhinakaran311/TodoApp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhinakaran311&repo=TodoApp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF&icon_color=4F46E5" />
-</a>
-<a href="https://github.com/Dhinakaran311/Job_Search">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhinakaran311&repo=Job_Search&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF&icon_color=4F46E5" />
-</a>
-
-<a href="https://github.com/Dhinakaran311/Portfolio_DK">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhinakaran311&repo=Portfolio_DK&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF&icon_color=4F46E5" />
-</a>
-<a href="https://github.com/Dhinakaran311/Age-Calculator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhinakaran311&repo=Age-Calculator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF&icon_color=4F46E5" />
-</a>
+[![](https://img.shields.io/badge/View_All_Repositories-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhinakaran311?tab=repositories)
 
 </div>
 
 ---
+
 
 ## 📊 GitHub Analytics
 
@@ -241,14 +317,13 @@ class DhinakaranMS:
 ---
 
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhinakaran311)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhinakaran-ms-934296378/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Dhinakaran311/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/kit23bam016)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhinakaranms123@gmail.com)
 [![Codolio](https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codolio.com/profile/Dhinakaran311)
 
 </div>
@@ -262,9 +337,7 @@ class DhinakaranMS:
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
 
 <br/><br/>
-
 ### 💡 Today's Random Dev Joke
-
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
 
 <br/><br/>
@@ -277,4 +350,5 @@ class DhinakaranMS:
 **⭐ If you find my work interesting, feel free to star my repositories!**
 
 *Made with ❤️ by [Dhinakaran M S](https://github.com/Dhinakaran311)*
+
 
