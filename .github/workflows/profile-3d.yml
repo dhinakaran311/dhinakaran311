@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *"  # Runs every day at midnight (UTC)
   workflow_dispatch:      # Allows manual trigger
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -14,20 +17,22 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate 3D contribution graph
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        with:
+        uses: yoshi389111/github-profile-3d-contrib@0.7.2
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           USERNAME: Dhinakaran311
           SETTINGS: >
             {
-              "theme": "night_view", 
+              "theme": "night_view",
               "output": "./profile-3d-contrib"
             }
 
-      - name: Push to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: profile-3d-contrib
-          commit_message: Update 3D contribution graph
+      - name: Commit & Push the generated SVG
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git add profile-3d-contrib
+          git commit -m "Updated 3D contribution graph" || echo "No changes to commit"
+          git push
