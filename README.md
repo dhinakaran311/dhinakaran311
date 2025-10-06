@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=250&section=header&text=Dhinakaran%20M%20S&fontSize=70&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Competitive%20Programmer&descAlignY=55&descAlign=50&fontColor=fff&animation=fadeIn&stroke=4F46E5&strokeWidth=2" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:4facfe,50:00f2fe,100:667eea&height=280&section=header&text=Dhinakaran%20M%20S&fontSize=70&fontAlignY=40&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Competitive%20Programmer&descAlignY=58&fontColor=ffffff&animation=twinkling&stroke=764ba2&strokeWidth=2" alt="Header Banner" />
 
 <br/>
 
