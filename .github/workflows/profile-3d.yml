@@ -23,10 +23,11 @@ jobs:
               "output": "./profile-3d-contrib"
             }
 
-      - name: Commit & Push the generated SVG
-        run: |
-          git config user.name "GitHub Action"
-          git config user.email "action@github.com"
-          git add profile-3d-contrib
-          git commit -m "Updated 3D contribution graph" || echo "No changes to commit"
-          git push
+      - name: Push to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: profile-3d-contrib
+          commit_message: Update 3D contribution graph
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
