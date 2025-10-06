@@ -183,19 +183,48 @@ class DhinakaranMS:
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<div align="left">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dhinakaran311&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF&icon_color=4F46E5&ring_color=4F46E5" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhinakaran311&theme=tokyonight&hide_border=true&background=0D1117&stroke=4F46E5&ring=4F46E5&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=4F46E5&sideLabels=4F46E5&dates=FFFFFF" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhinakaran311&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Dhinakaran311&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF&icon_color=4F46E5" alt="Contribution Stats" />
+
+<br/>
 </div>
+<p align="center">
+<div align="center">
+
+<a href="https://github.com/Dhinakaran311"> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhinakaran311&theme=algolia" width="100%" /> 
+<br/><br/>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dhinakaran311&theme=algolia" width="31%" align="left"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dhinakaran311&theme=algolia" width="31%" align="right" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dhinakaran311&theme=algolia" width="31%" align="center" title="🦉 Productive Hours" />  
+<br/><br/>
+</a>
+
+<a href="https://github.com/Dhinakaran311"> 
+<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contribution Graph" />
+
+
+</a>
+
+<br/><br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhinakaran311&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/Dhinakaran311)
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhinakaran311&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4F46E5&line=4F46E5&point=FFFFFF&area=true&area_color=4F46E5&title_color=4F46E5" alt="Activity Graph" width="100%" />
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Dhinakaran311&column=8&margin-w=20&margin-h=20&no-frame=true&theme=algolia&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues)](https://github.com/Dhinakaran311)
+
+<br/><br/>
+
+
+
+</div>
+</p>
+
+
 
 ---
 
@@ -211,13 +240,6 @@ class DhinakaranMS:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dhinakaran311&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</div>
-
----
 
 ## 🌐 Connect With Me
 
@@ -256,37 +278,3 @@ class DhinakaranMS:
 
 *Made with ❤️ by [Dhinakaran M S](https://github.com/Dhinakaran311)*
 
-</div>
-<p align="center">
-<div align="center">
-
-<a href="https://github.com/Dhinakaran311"> 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhinakaran311&theme=algolia" width="100%" /> 
-<br/><br/>
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dhinakaran311&theme=algolia" width="31%" align="left"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dhinakaran311&theme=algolia" width="31%" align="right" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dhinakaran311&theme=algolia" width="31%" align="center" title="🦉 Productive Hours" />  
-<br/><br/>
-</a>
-
-<a href="https://github.com/Dhinakaran311"> 
-<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contribution Graph" />
-
-
-</a>
-
-<br/><br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhinakaran311&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/Dhinakaran311)
-
-<br/>
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Dhinakaran311&column=8&margin-w=20&margin-h=20&no-frame=true&theme=algolia&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues)](https://github.com/Dhinakaran311)
-
-<br/><br/>
-
-
-
-</div>
-</p>
