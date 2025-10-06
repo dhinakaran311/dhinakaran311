@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&random=false&width=800&lines=💡+AI+%26+Machine+Learning+Explorer;🚀+Full-Stack+Web+Developer;⚡+Div+3+Competitive+Programmer;🎯+627%2B+Problems+Solved;🌟+Always+Learning+%26+Building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&random=false&width=800&lines=+AI+%26+Machine+Learning+Explorer;+Full-Stack+Web+Developer;+Div+3+Competitive+Programmer;+627%2B+Problems+Solved;+Always+Learning+%26+Building)](https://git.io/typing-svg)
 
 <br/>
 
@@ -29,7 +29,7 @@
 
 ---
 
-## ⚙️ Developer Profile Overview
+##  Developer Profile Overview
 
 ```python
 class DhinakaranMS:
@@ -54,10 +54,10 @@ class DhinakaranMS:
 
 ---
 
-## 🛠️ Tech Arsenal
+##  Tech Arsenal
 
 <details open>
-<summary><b>💻 Languages</b></summary>
+<summary><b> Languages</b></summary>
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -70,7 +70,7 @@ class DhinakaranMS:
 </details>
 
 <details open>
-<summary><b>🎨 Frontend Development</b></summary>
+<summary><b> Frontend Development</b></summary>
 <br/>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -80,7 +80,7 @@ class DhinakaranMS:
 </details>
 
 <details open>
-<summary><b>⚙️ Backend & Database</b></summary>
+<summary><b> Backend & Database</b></summary>
 <br/>
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -90,7 +90,7 @@ class DhinakaranMS:
 </details>
 
 <details open>
-<summary><b>🤖 AI/ML & Data Science</b></summary>
+<summary><b>AI/ML & Data Science</b></summary>
 <br/>
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -103,7 +103,7 @@ class DhinakaranMS:
 
 ---
 
-## 🏆 Competitive Programming Journey
+##  Competitive Programming Journey
 
 <div align="center">
 
@@ -114,7 +114,7 @@ class DhinakaranMS:
 
 <br/><br/>
 
-### 🍳 CodeChef Profile
+###  CodeChef Profile
 
 <table>
   <tr>
@@ -141,6 +141,10 @@ class DhinakaranMS:
   </tr>
 </table>
 
+
+
+
+
 [![CodeChef Profile](https://img.shields.io/badge/View_Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/kit23bam016)
 [![Codolio Portfolio](https://img.shields.io/badge/Codolio_Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codolio.com/profile/Dhinakaran311)
 
@@ -148,7 +152,7 @@ class DhinakaranMS:
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
@@ -195,7 +199,7 @@ class DhinakaranMS:
 
 ---
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <div align="center">
   <picture>
@@ -253,3 +257,36 @@ class DhinakaranMS:
 *Made with ❤️ by [Dhinakaran M S](https://github.com/Dhinakaran311)*
 
 </div>
+<p align="center">
+<div align="center">
+
+<a href="https://github.com/Dhinakaran311"> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhinakaran311&theme=algolia" width="100%" /> 
+<br/><br/>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dhinakaran311&theme=algolia" width="31%" align="left"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dhinakaran311&theme=algolia" width="31%" align="right" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dhinakaran311&theme=algolia" width="31%" align="center" title="🦉 Productive Hours" />  
+<br/><br/>
+</a>
+
+<a href="https://github.com/Dhinakaran311"> 
+<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contribution Graph" />
+
+
+</a>
+
+<br/><br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhinakaran311&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/Dhinakaran311)
+
+<br/>
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Dhinakaran311&column=8&margin-w=20&margin-h=20&no-frame=true&theme=algolia&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues)](https://github.com/Dhinakaran311)
+
+<br/><br/>
+
+
+
+</div>
+</p>
