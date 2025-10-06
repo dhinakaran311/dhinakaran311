@@ -1,13 +1,15 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=250&section=header&text=Dhinakaran%20M%20S&fontSize=70&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Competitive%20Programmer&descAlignY=55&descAlign=50&fontColor=fff&animation=fadeIn&stroke=4F46E5&strokeWidth=2" alt="Header Banner" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=250&section=header&text=Dhinakaran%20M%20S&fontSize=70&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Competitive%20Programmer&descAlignY=55&descAlign=50&fontColor=fff&animation=fadeIn&stroke=4F46E5&strokeWidth=2" alt="Header Banner" /> -->
+![Developer Banner](https://ishan-rest.vercel.app/svg/banner/dev/Dhinakaran)
 
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&random=false&width=800&lines=💡+AI+%26+Machine+Learning+Explorer;🚀+Full-Stack+Web+Developer;⚡+Div+3+Competitive+Programmer;🎯+627%2B+Problems+Solved;🌟+Always+Learning+%26+Building)](https://git.io/typing-svg)
 
 <br/>
+
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Dhinakaran311&label=Profile%20Views&color=4F46E5&style=for-the-badge)](https://github.com/Dhinakaran311)
 [![GitHub followers](https://img.shields.io/github/followers/Dhinakaran311?label=Followers&style=for-the-badge&color=4F46E5)](https://github.com/Dhinakaran311?tab=followers)
