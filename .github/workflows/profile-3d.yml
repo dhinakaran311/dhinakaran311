@@ -2,21 +2,23 @@ name: GitHub 3D Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs every day at midnight (UTC)
-  workflow_dispatch:      # Allows manual trigger
+    - cron: "0 0 * * *"  # Runs daily at midnight UTC
+  workflow_dispatch:      # Manual trigger support
 
 permissions:
   contents: write
 
 jobs:
-  build:
+  generate-3d-graph:
     runs-on: ubuntu-latest
-    name: Generate 3D Contribution Graph
+    name: Generate 3D Contribution Graphs (Light & Dark)
+
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      - name: Generate 3D contribution graph
+      # --- Generate Dark Theme ---
+      - name: Generate 3D Contribution Graph (Dark)
         uses: yoshi389111/github-profile-3d-contrib@0.7.2
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
@@ -24,15 +26,28 @@ jobs:
           SETTINGS: >
             {
               "theme": "night_view",
-              "output": "./profile-3d-contrib"
+              "output": "./profile-3d-contrib/dark"
             }
 
-      - name: Commit & Push the generated SVG
+      # --- Generate Light Theme ---
+      - name: Generate 3D Contribution Graph (Light)
+        uses: yoshi389111/github-profile-3d-contrib@0.7.2
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          USERNAME: Dhinakaran311
+          SETTINGS: >
+            {
+              "theme": "default",
+              "output": "./profile-3d-contrib/light"
+            }
+
+      # --- Commit & Push if Changes Exist ---
+      - name: Commit & Push Updated Graphs
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         run: |
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
           git add profile-3d-contrib
-          git commit -m "Updated 3D contribution graph" || echo "No changes to commit"
+          git diff --cached --quiet || git commit -m "Updated 3D contribution graphs (Light & Dark)"
           git push
