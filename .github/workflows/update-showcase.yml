@@ -2,8 +2,8 @@ name: 🔄 Update Showcase Projects
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # runs every 6 hours
-  workflow_dispatch:
+    - cron: "0 */6 * * *" # Runs every 6 hours
+  workflow_dispatch:      # Manual trigger option
 
 jobs:
   update:
@@ -12,9 +12,11 @@ jobs:
       contents: write
 
     steps:
+      # 1️⃣ Checkout the repository
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      # 2️⃣ Generate Top Repositories Showcase
       - name: Generate Top Repositories Showcase
         uses: lowlighter/metrics@latest
         with:
@@ -24,7 +26,7 @@ jobs:
           base: ""
           config_timezone: Asia/Kolkata
           
-          # ✅ Valid plugin settings
+          # Plugin settings
           plugin_repositories: yes
           plugin_repositories_affiliations: owner
           plugin_repositories_order: stars
@@ -33,13 +35,20 @@ jobs:
           plugin_repositories_forks: yes
           plugin_repositories_starred: no
           
-          # Output file
+          # Output file in repo root
           filename: showcase.svg
 
+      # 3️⃣ Commit & push the generated file
       - name: Commit and Push Showcase
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add showcase.svg
-          git commit -m "🔄 Update Showcase (Top Repos)" || echo "No changes to commit"
-          git push
+          
+          # Ensure the file exists before committing
+          if [ -f "showcase.svg" ]; then
+            git add showcase.svg
+            git diff --staged --quiet || git commit -m "🔄 Update Showcase (Top Repos)"
+            git push
+          else
+            echo "❌ showcase.svg not found, skipping commit."
+          fi
