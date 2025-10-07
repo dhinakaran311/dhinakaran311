@@ -2,8 +2,8 @@ name: 🔄 Update Showcase Projects
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # updates every 6 hours
-  workflow_dispatch: # allow manual trigger
+    - cron: "0 */6 * * *" # Runs every 6 hours
+  workflow_dispatch: # Allow manual trigger
 
 jobs:
   update:
@@ -15,36 +15,26 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate dynamic top repositories
-        uses: anmol098/waka-readme-stats@master
+      - name: Generate Top Repositories Showcase
+        uses: lowlighter/metrics@latest
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_PROJECTS: "True"
-          SHOW_LOC_CHART: "False"
-          SHOW_PROFILE_VIEWS: "False"
-          SHOW_LINES_OF_CODE: "False"
-          SHOW_DAYS_OF_WEEK: "False"
-          SHOW_LANGUAGE: "False"
-          SHOW_OS: "False"
-          SHOW_EDITORS: "False"
-          SHOW_TIMEZONE: "False"
-          SHOW_LANGUAGE_PER_REPO: "False"
-          SHOW_SHORT_INFO: "False"
-          SHOW_TOTAL_CODE_TIME: "False"
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Dhinakaran311
+          template: classic
+          base: ""
+          config_timezone: Asia/Kolkata
+          plugin_repositories: yes
+          plugin_repositories_affiliations: owner
+          plugin_repositories_limit: 6
+          plugin_repositories_order: stars
+          plugin_repositories_features: stars, forks
+          config_theme: react
+          filename: showcase.svg
 
-      - name: Generate top repositories list
-        uses: anmol098/github-profile-repo-card@v1
-        with:
-          username: Dhinakaran311
-          sort: stars
-          count: 6
-          theme: react
-          readme_path: "README.md"
-          header: "## Showcasing My Best Work"
-
-      - name: Commit and push if changed
+      - name: Commit and Push Showcase
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git diff --quiet && echo "No changes" || (git commit -m "🔄 Auto-update showcase" && git push)
+          git add showcase.svg
+          git commit -m "🔄 Update Showcase (Top Repos)" || echo "No changes to commit"
+          git push
