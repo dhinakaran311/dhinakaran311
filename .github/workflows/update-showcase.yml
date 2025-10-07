@@ -2,8 +2,8 @@ name: 🔄 Update Showcase Projects
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # Runs every 6 hours
-  workflow_dispatch: # Allow manual trigger
+    - cron: "0 */6 * * *" # runs every 6 hours
+  workflow_dispatch:
 
 jobs:
   update:
@@ -23,12 +23,17 @@ jobs:
           template: classic
           base: ""
           config_timezone: Asia/Kolkata
+          
+          # ✅ Valid plugin settings
           plugin_repositories: yes
           plugin_repositories_affiliations: owner
-          plugin_repositories_limit: 6
           plugin_repositories_order: stars
-          plugin_repositories_features: stars, forks
-          config_theme: react
+          plugin_repositories_pinned: yes
+          plugin_repositories_featured: yes
+          plugin_repositories_forks: yes
+          plugin_repositories_starred: no
+          
+          # Output file
           filename: showcase.svg
 
       - name: Commit and Push Showcase
