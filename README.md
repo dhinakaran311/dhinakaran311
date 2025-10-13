@@ -259,8 +259,19 @@ Simple yet elegant age calculator with detailed breakdowns.
 
 ## 📊 GitHub Analytics
 
-<div align="left">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dhinakaran311&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF&icon_color=4F46E5&ring_color=4F46E5" alt="GitHub Stats" />
+<div align="center">
+  <img 
+    width="49%" 
+    src="https://github-readme-stats.vercel.app/api?username=Dhinakaran311&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF&icon_color=4F46E5&ring_color=4F46E5&cache_seconds=1800" 
+    alt="Dhinakaran311's GitHub Statistics"
+    loading="lazy"
+  />
+  <img 
+    width="49%" 
+    src="https://github-readme-streak-stats.herokuapp.com?user=Dhinakaran311&theme=tokyonight&hide_border=true&background=0D1117&ring=4F46E5&fire=4F46E5&currStreakLabel=4F46E5&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF&cache_seconds=1800" 
+    alt="Dhinakaran311's GitHub Streak"
+    loading="lazy"
+  />
 </div>
 
 
