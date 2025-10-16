@@ -267,11 +267,10 @@ Simple yet elegant age calculator with detailed breakdowns.
     loading="lazy"
   />
   <img 
-    width="49%" 
-    src="https://github-readme-streak-stats.herokuapp.com?user=Dhinakaran311&theme=tokyonight&hide_border=true&background=0D1117&ring=4F46E5&fire=4F46E5&currStreakLabel=4F46E5&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF&cache_seconds=1800" 
-    alt="Dhinakaran311's GitHub Streak"
-    loading="lazy"
-  />
+  src="https://github-readme-streak-stats.herokuapp.com?user=Dhinakaran311&theme=tokyonight&hide_border=true&background=0D1117&ring=4F46E5&fire=4F46E5&currStreakLabel=4F46E5&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF&cache_seconds=1800" 
+  alt="Dhinakaran311's GitHub Streak"
+/>
+
 </div>
 
 
