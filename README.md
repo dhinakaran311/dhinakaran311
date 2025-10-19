@@ -178,69 +178,108 @@ class DhinakaranMS:
 
 </div>
 
-
 ## Showcasing My Best Work
 
 <table>
 <tr>
 <td width="50%">
 
-### 💰 Expense Tracker
+### Expense Tracker
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Dhinakaran311&repo=Expense_tracker&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/Dhinakaran311/Expense_tracker)
 
-**🔹 Track your expenses effortlessly**  
-A comprehensive expense tracking application with intuitive UI and powerful analytics.
+Track your expenses effortlessly with comprehensive analytics and intuitive interface.
+
+**Tech Stack:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=databricks&logoColor=white)
+![Swing](https://img.shields.io/badge/Java%20Swing-5382A1?style=flat&logo=oracle&logoColor=white)
+
 
 </td>
 <td width="50%">
 
-### 🍕 Food Delivery Time Prediction
+### Food Delivery Time Prediction
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Dhinakaran311&repo=FOOD_DELIVERY_TIME_PREDICTION&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/Dhinakaran311/FOOD_DELIVERY_TIME_PREDICTION)
 
-**🔹 ML-powered delivery estimation**  
-Predict food delivery times using machine learning algorithms.
+ML-powered application for accurate food delivery time estimation using advanced algorithms.
+
+**Tech Stack:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 </td>
 </tr>
-
 <tr>
 <td width="50%">
 
-### ✅ Todo Application
+### Todo Application
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Dhinakaran311&repo=TodoApp&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/Dhinakaran311/TodoApp)
 
-**🔹 Stay organized and productive**  
-Modern todo app with a clean interface and essential features.
+Modern task management application with clean interface and essential productivity features.
+
+**Tech Stack:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=databricks&logoColor=white)
+![Swing](https://img.shields.io/badge/Java%20Swing-5382A1?style=flat&logo=oracle&logoColor=white)
+
 
 </td>
 <td width="50%">
 
-### 💼 Job Search Platform
+### Job Search Platform
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Dhinakaran311&repo=Job_Search&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/Dhinakaran311/Job_Search)
 
-**🔹 Find your dream job**  
-Comprehensive job search application with advanced filtering.
+Comprehensive job search platform with advanced filtering and personalized recommendations.
+
+**Tech Stack:**  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![SentenceTransformers](https://img.shields.io/badge/SentenceTransformers-1D63ED?style=flat&logo=ai&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![numpy](https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-66BB6A?style=flat&logo=database&logoColor=white)
+![Adzuna API](https://img.shields.io/badge/Adzuna%20API-0A9A36?style=flat&logo=api&logoColor=white)
+![pdfplumber](https://img.shields.io/badge/pdfplumber-DA2C43?style=flat&logo=adobeacrobatreader&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
 
 </td>
 </tr>
-
 <tr>
 <td width="50%">
 
-### 🌐 Personal Portfolio
+### Personal Portfolio
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Dhinakaran311&repo=Portfolio_DK&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/Dhinakaran311/Portfolio_DK)
 
-**🔹 Showcasing my journey**  
-Professional portfolio website highlighting my skills and projects.
+Professional portfolio website showcasing skills, projects, and professional journey.
+
+**Tech Stack:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 </td>
 <td width="50%">
 
-### 🎂 Age Calculator
+### Age Calculator
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Dhinakaran311&repo=Age-Calculator&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/Dhinakaran311/Age-Calculator)
 
-**🔹 Calculate age precisely**  
-Simple yet elegant age calculator with detailed breakdowns.
+Precise age calculator with detailed breakdowns and elegant, user-friendly interface.
+
+**Tech Stack:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 </td>
 </tr>
@@ -248,9 +287,9 @@ Simple yet elegant age calculator with detailed breakdowns.
 
 <div align="center">
 
-### 🌟 More Projects Coming Soon!
+### More Projects Coming Soon
 
-[![](https://img.shields.io/badge/View_All_Repositories-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhinakaran311?tab=repositories)
+[![View All Repositories](https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhinakaran311?tab=repositories)
 
 </div>
 
