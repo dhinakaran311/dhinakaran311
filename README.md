@@ -340,7 +340,8 @@ Precise age calculator with detailed breakdowns and elegant, user-friendly inter
 
 <br/>
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Dhinakaran311&column=8&margin-w=20&margin-h=20&no-frame=true&theme=algolia&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues)](https://github.com/Dhinakaran311)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Dhinakaran311&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,MultiLanguage,Organizations)](https://github.com/Dhinakaran311)
+
 
 <br/><br/>
 
@@ -399,6 +400,7 @@ Precise age calculator with detailed breakdowns and elegant, user-friendly inter
 **⭐ If you find my work interesting, feel free to star my repositories!**
 
 *Made with ❤️ by [Dhinakaran M S](https://github.com/Dhinakaran311)*
+
 
 
 
