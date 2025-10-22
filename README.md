@@ -85,7 +85,10 @@ class DhinakaranMS:
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-66BB6A?style=flat&logo=database&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-66BB6A?style=for-the-badge&logo=database&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6F61?style=for-the-badge&logo=webhook&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
 
 </details>
 
