@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=4F46E5&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Explorer;Full-Stack+Web+Developer;Div+3+Competitive+Programmer;627%2B+Problems+Solved+%7C+CodeForces;Always+Learning+%26+Building+🚀)](https://github.com/yourusername)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=4F46E5&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Explorer;Full-Stack+Web+Developer;Div+3+Competitive+Programmer;663%2B+Problems+Solved+%7C+Codechef;Always+Learning+%26+Building+🚀)](https://github.com/yourusername)
 <br/>
 
 
@@ -131,7 +131,7 @@ class DhinakaranMS:
 <table align="center">
   <tr>
     <td align="center" colspan="2">
-      <img src="https://img.shields.io/badge/Problems_Solved-627-4F46E5?style=for-the-badge&logo=codechef&logoColor=white" />
+      <img src="https://img.shields.io/badge/Problems_Solved-663-4F46E5?style=for-the-badge&logo=codechef&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -139,12 +139,12 @@ class DhinakaranMS:
       <img src="https://img.shields.io/badge/Max_Rating-1513-FFD93D?style=for-the-badge&logo=codechef&logoColor=white" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Current_Rating-1478-FFA94D?style=for-the-badge&logo=codechef&logoColor=white" />
+      <img src="https://img.shields.io/badge/Current_Rating-1511-FFA94D?style=for-the-badge&logo=codechef&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Contests-80-FF6B6B?style=for-the-badge&logo=codechef&logoColor=white" />
+      <img src="https://img.shields.io/badge/Contests-82-FF6B6B?style=for-the-badge&logo=codechef&logoColor=white" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Active_Days-200-51CF66?style=for-the-badge&logo=codechef&logoColor=white" />
@@ -165,9 +165,9 @@ class DhinakaranMS:
 <br/>
 
 **Achievements**
--  627 Problems Solved
+-  663 Problems Solved
 -  Peak Rating: 1513
--  80 Contests Participated
+-  82 Contests Participated
 -  200+ Active Days
 
 </td>
