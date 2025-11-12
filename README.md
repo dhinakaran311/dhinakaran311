@@ -88,6 +88,8 @@ class DhinakaranMS:
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-66BB6A?style=for-the-badge&logo=database&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6F61?style=for-the-badge&logo=webhook&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 
 
 </details>
