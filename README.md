@@ -110,38 +110,40 @@ class DhinakaranMS:
 
 <div align="center">
 
-# Competitive Programming Stats
+# 🚀 Competitive Programming Stats
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 📊 LeetCode Profile
+### 📊 LeetCode
 
 <a href="https://leetcode.com/u/Dhinakaran311/">
   <img src="https://leetcard.jacoblin.cool/Dhinakaran311?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats" width="100%" />
 </a>
+<br/>
 <a href="https://leetcode.com/u/Dhinakaran311/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-###  CodeChef Profile
+### 🏆 CodeChef
 
 <table align="center">
   <tr>
-    <td align="center" colspan="2">
-      <img src="https://img.shields.io/badge/Problems_Solved-663-4F46E5?style=for-the-badge&logo=codechef&logoColor=white" />
+    <td colspan="2" align="center">
+      <img src="https://img.shields.io/badge/Problems_Solved-700-4F46E5?style=for-the-badge&logo=codechef&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Max_Rating-1513-FFD93D?style=for-the-badge&logo=codechef&logoColor=white" />
+      <img src="https://img.shields.io/badge/Max_Rating-1586-FFD93D?style=for-the-badge&logo=codechef&logoColor=white" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Current_Rating-1511-FFA94D?style=for-the-badge&logo=codechef&logoColor=white" />
+      <img src="https://img.shields.io/badge/Current_Rating-1589-FFA94D?style=for-the-badge&logo=codechef&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -153,24 +155,30 @@ class DhinakaranMS:
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
+    <td colspan="2" align="center">
       <img src="https://img.shields.io/badge/Division-Div_3-A29BFE?style=for-the-badge&logo=codechef&logoColor=white" />
     </td>
   </tr>
-  
 </table>
-<a href="https://www.codechef.com/users/dhinakaran311" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-  </a>
-
 
 <br/>
+<a href="https://www.codechef.com/users/dhinakaran311" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef_Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
 
-**Achievements**
--  663 Problems Solved
--  Peak Rating: 1513
--  82 Contests Participated
--  200+ Active Days
+</td>
+
+<td width="33%" valign="top">
+
+### 💡 Codeforces
+
+<a href="https://codeforces.com/profile/Dhinakaran311" target="_blank">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Dhinakaran311&theme=dark&show_icons=true&force=true" alt="Codeforces Stats" width="100%" />
+</a>
+<br/><br/>
+<a href="https://codeforces.com/profile/Dhinakaran311" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces_Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
 
 </td>
 </tr>
@@ -178,8 +186,24 @@ class DhinakaranMS:
 
 ---
 
-<span style="font-size:16px;">Keep coding, keep growing! 💻</span>
+### 🎖 Achievements
 
+</div>
+
+<div align="left">
+
+⭐ 1000+ Problems Solved  
+⭐ Peak Rating: 1586 (CodeChef), 1364— (Codeforces)  
+⭐ 90+ Contests Participated  
+⭐ 200+ Active Days  
+
+</div>
+
+<div align="center">
+
+---
+
+<span style="font-size:16px;">Keep coding, keep growing! 💻🔥</span>
 
 </div>
 
@@ -404,8 +428,6 @@ Precise age calculator with detailed breakdowns and elegant, user-friendly inter
 **⭐ If you find my work interesting, feel free to star my repositories!**
 
 *Made with ❤️ by [Dhinakaran M S](https://github.com/Dhinakaran311)*
-
-
 
 
 
