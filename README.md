@@ -196,6 +196,8 @@ class DhinakaranMS:
 ⭐ Peak Rating: 1586 (CodeChef), 1364— (Codeforces)  
 ⭐ 90+ Contests Participated  
 ⭐ 200+ Active Days  
+⭐ Knight Badge@Leetcode
+ 
 
 </div>
 
@@ -428,6 +430,7 @@ Precise age calculator with detailed breakdowns and elegant, user-friendly inter
 **⭐ If you find my work interesting, feel free to star my repositories!**
 
 *Made with ❤️ by [Dhinakaran M S](https://github.com/Dhinakaran311)*
+
 
 
 
