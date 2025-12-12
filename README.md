@@ -140,10 +140,10 @@ class DhinakaranMS:
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Max_Rating-1586-FFD93D?style=for-the-badge&logo=codechef&logoColor=white" />
+      <img src="https://img.shields.io/badge/Max_Rating-1678-FFD93D?style=for-the-badge&logo=codechef&logoColor=white" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Current_Rating-1589-FFA94D?style=for-the-badge&logo=codechef&logoColor=white" />
+      <img src="https://img.shields.io/badge/Current_Rating-1678-FFA94D?style=for-the-badge&logo=codechef&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -156,7 +156,7 @@ class DhinakaranMS:
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://img.shields.io/badge/Division-Div_3-A29BFE?style=for-the-badge&logo=codechef&logoColor=white" />
+      <img src="https://img.shields.io/badge/Division-Div_2-A29BFE?style=for-the-badge&logo=codechef&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -193,10 +193,9 @@ class DhinakaranMS:
 <div align="left">
 
 ⭐ 1000+ Problems Solved  
-⭐ Peak Rating: 1586 (CodeChef), 1364— (Codeforces)  
-⭐ 90+ Contests Participated  
+⭐ Peak Rating: 1678 (CodeChef), 1736— (Codeforces)  
+⭐ 100+ Contests Participated  
 ⭐ 200+ Active Days  
-⭐ Knight Badge@Leetcode
  
 
 </div>
