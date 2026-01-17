@@ -22,6 +22,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://portfoliodk311.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Live_Site-4F46E5?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
 
 
 
