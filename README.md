@@ -178,11 +178,11 @@ class DhinakaranMS:
 
 ### 💡 Codeforces
 
-<a href="https://codeforces.com/profile/Dhinakaran311" target="_blank">
+<a href="https://codeforces.com/profile/kit23bam016" target="_blank">
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Dhinakaran311&theme=dark&show_icons=true&force=true" alt="Codeforces Stats" width="100%" />
 </a>
 <br/><br/>
-<a href="https://codeforces.com/profile/Dhinakaran311" target="_blank">
+<a href="https://codeforces.com/profile/kit23bam016" target="_blank">
   <img src="https://img.shields.io/badge/Codeforces_Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
 </a>
 
