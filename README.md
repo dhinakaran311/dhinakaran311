@@ -179,7 +179,7 @@ class DhinakaranMS:
 ### 💡 Codeforces
 
 <a href="https://codeforces.com/profile/kit23bam016" target="_blank">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Dhinakaran311&theme=dark&show_icons=true&force=true" alt="Codeforces Stats" width="100%" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=kit23bam0161&theme=dark&show_icons=true&force=true" alt="Codeforces Stats" width="100%" />
 </a>
 <br/><br/>
 <a href="https://codeforces.com/profile/kit23bam016" target="_blank">
